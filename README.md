@@ -10,6 +10,7 @@
 
 React：
 
+- [react-as-tabs](https://github.com/LingyuCoder/react-as-tabs)：标签页 [DEMO](http://lingyucoder.github.io/react-as-tabs/demo/demo.html)
 - [react-git-card](https://github.com/LingyuCoder/react-git-card)：github卡片 [DEMO](http://lingyucoder.github.io/react-git-card/demo/demo.html)
 - [react-as-dnd](https://github.com/LingyuCoder/react-as-dnd)：拖拽组件 [DEMO](http://lingyucoder.github.io/react-as-dnd/demo/demo.html)
 - [react-as-calendar](https://github.com/LingyuCoder/react-as-calendar)：日历组件 [DEMO](http://lingyucoder.github.io/react-as-calendar/demo/demo.html)
