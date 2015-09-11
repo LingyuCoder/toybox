@@ -10,6 +10,7 @@
 
 React：
 
+- [react-as-image-accordion](https://github.com/LingyuCoder/react-as-image-accordion)：手风琴风格图文展示 [DEMO](http://lingyucoder.github.io/react-as-image-accordion/demo/demo.html)
 - [react-as-tabs](https://github.com/LingyuCoder/react-as-tabs)：标签页 [DEMO](http://lingyucoder.github.io/react-as-tabs/demo/demo.html)
 - [react-git-card](https://github.com/LingyuCoder/react-git-card)：github卡片 [DEMO](http://lingyucoder.github.io/react-git-card/demo/demo.html)
 - [react-as-dnd](https://github.com/LingyuCoder/react-as-dnd)：拖拽组件 [DEMO](http://lingyucoder.github.io/react-as-dnd/demo/demo.html)
