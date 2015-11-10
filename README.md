@@ -24,6 +24,7 @@ React：
 
 ## 工具
 
+- [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
 - [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): nodejs模块的yeoman脚手架
 - [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
 - [react-as-event-mixin](https://github.com/LingyuCoder/react-as-event-mixin)：为组件提供事件机制的mixin
