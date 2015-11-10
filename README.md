@@ -24,6 +24,8 @@ React：
 
 ## 工具
 
+- [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): nodejs模块的yeoman脚手架
+- [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
 - [react-as-event-mixin](https://github.com/LingyuCoder/react-as-event-mixin)：为组件提供事件机制的mixin
 - [react-webpack-boilerplate](https://github.com/LingyuCoder/react-webpack-boilerplate)：使用webpack开发React组件的脚手架
 - [koa-anywhere](https://github.com/LingyuCoder/koa-anywhere)：快速在本地起静态服务器
