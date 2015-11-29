@@ -24,6 +24,7 @@ React：
 
 ## 工具
 
+- [atom-language-xtpl](https://github.com/LingyuCoder/atom-language-xtpl):  Atom下XTemplate语法高亮和代码片段插件
 - [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
 - [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): nodejs模块的yeoman脚手架
 - [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
