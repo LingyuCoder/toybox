@@ -24,8 +24,6 @@ React：
 
 ## 工具
 
-- [atom-language-xtpl](https://github.com/LingyuCoder/atom-language-xtpl):  Atom下XTemplate语法高亮和代码片段插件
-- [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
 - [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): nodejs模块的yeoman脚手架
 - [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
 - [react-as-event-mixin](https://github.com/LingyuCoder/react-as-event-mixin)：为组件提供事件机制的mixin
@@ -36,6 +34,8 @@ React：
 
 ## 插件
 
+- [atom-language-xtpl](https://github.com/LingyuCoder/atom-language-xtpl):  Atom下XTemplate语法高亮和代码片段插件
+- [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
 - [gitbook-plugin-todo](https://github.com/LingyuCoder/gitbook-plugin-todo)：给gitbook增加todolist效果 [DEMO](http://read.lingyu.wang/index.html)
 - [gitbook-plugin-fancybox](https://github.com/LingyuCoder/gitbook-plugin-fancybox)：给gitbook图片加上jQuery fancybox效果 [DEMO](http://read.lingyu.wang/webkit-core/webkit-arch-and-module.html)
 - [gitbook-plugin-codepen](https://github.com/LingyuCoder/gitbook-plugin-codpen)：给gitbook增加嵌入codepen功能 [DEMO](http://read.lingyu.wang/Codepen.html)
