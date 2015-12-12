@@ -31,6 +31,7 @@
 - [get-gulp-inst](https://github.com/LingyuCoder/get-gulp-inst): 用于从gulpfile中读取gulp实例
 - [linglog](https://github.com/LingyuCoder/linglog): 日志模块，支持写入stdio和文件，并提供灵活的日志模板配置
 - [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
+- [match-like-gulp](https://github.com/LingyuCoder/match-like-gulp): 用于判断一个文件是否符合glob规则，使用类似gulp，支持列表
 - [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): node.js模块的yeoman脚手架
 - [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
 - [koa-anywhere](https://github.com/LingyuCoder/koa-anywhere)：快速在本地起静态服务器
