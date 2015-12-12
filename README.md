@@ -30,12 +30,10 @@
 - [run-gulp-task](https://github.com/LingyuCoder/get-gulp-inst): 无需开启子进程直接执行指定gulp任务
 - [get-gulp-inst](https://github.com/LingyuCoder/get-gulp-inst): 用于从gulpfile中读取gulp实例
 - [linglog](https://github.com/LingyuCoder/linglog): 日志模块，支持写入stdio和文件，并提供灵活的日志模板配置
-- [koa-anywhere](https://github.com/LingyuCoder/koa-anywhere)：快速在本地起静态服务器
-- [peertc](https://github.com/LingyuCoder/peertc)：webrtc点对点工具库
-- [koa-openfire](https://github.com/LingyuCoder/koa-anywhere)：openfire与前端Web IM工具的koa中间件
 - [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
 - [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): node.js模块的yeoman脚手架
 - [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
+- [koa-anywhere](https://github.com/LingyuCoder/koa-anywhere)：快速在本地起静态服务器
 
 ## 插件
 
@@ -62,3 +60,5 @@
 
 - [SkyRTC](https://github.com/LingyuCoder/SkyRTC)：webrtc聊天室
 - [HiChat](https://github.com/LingyuCoder/HiChat2)：一个Web IM
+- [peertc](https://github.com/LingyuCoder/peertc)：webrtc点对点工具库
+- [koa-openfire](https://github.com/LingyuCoder/koa-anywhere)：openfire与前端Web IM工具的koa中间件
