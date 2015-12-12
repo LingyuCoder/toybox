@@ -24,7 +24,10 @@ React：
 
 ## 工具
 
-- [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): nodejs模块的yeoman脚手架
+- [run-gulp-task](https://github.com/LingyuCoder/get-gulp-inst): node.js模块，无需开启子进程直接执行指定gulp任务
+- [get-gulp-inst](https://github.com/LingyuCoder/get-gulp-inst): node.js模块，用于从gulpfile中读取gulp实例
+- [linglog](https://github.com/LingyuCoder/linglog): node.js日志模块，支持写入stdio和文件，并提供灵活的日志模板配置
+- [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): node.js模块的yeoman脚手架
 - [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
 - [react-as-event-mixin](https://github.com/LingyuCoder/react-as-event-mixin)：为组件提供事件机制的mixin
 - [react-webpack-boilerplate](https://github.com/LingyuCoder/react-webpack-boilerplate)：使用webpack开发React组件的脚手架
