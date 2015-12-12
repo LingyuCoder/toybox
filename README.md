@@ -27,7 +27,7 @@
 
 ## Node.js
 
-- [run-gulp-task](https://github.com/LingyuCoder/get-gulp-inst): 无需开启子进程直接执行指定gulp任务
+- [run-gulp-task](https://github.com/LingyuCoder/run-gulp-task): 无需开启子进程直接执行指定gulp任务
 - [get-gulp-inst](https://github.com/LingyuCoder/get-gulp-inst): 用于从gulpfile中读取gulp实例
 - [linglog](https://github.com/LingyuCoder/linglog): 日志模块，支持写入stdio和文件，并提供灵活的日志模板配置
 - [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
