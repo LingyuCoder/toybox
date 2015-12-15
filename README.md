@@ -55,7 +55,7 @@ Hexo
 gitbook
 - [gitbook-plugin-todo](https://github.com/LingyuCoder/gitbook-plugin-todo)：给gitbook增加todolist效果 [DEMO](http://read.lingyu.wang/index.html)
 - [gitbook-plugin-fancybox](https://github.com/LingyuCoder/gitbook-plugin-fancybox)：给gitbook图片加上jQuery fancybox效果 [DEMO](http://read.lingyu.wang/webkit-core/webkit-arch-and-module.html)
-- [gitbook-plugin-codepen](https://github.com/LingyuCoder/gitbook-plugin-codpen)：给gitbook增加嵌入codepen功能 [DEMO](http://read.lingyu.wang/Codepen.html)
+- [gitbook-plugin-codepen](https://github.com/LingyuCoder/gitbook-plugin-codepen)：给gitbook增加嵌入codepen功能 [DEMO](http://read.lingyu.wang/Codepen.html)
 
 Mou
 - [mou-typo](https://github.com/LingyuCoder/mou-typo)
