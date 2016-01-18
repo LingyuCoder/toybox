@@ -27,17 +27,48 @@
 
 ## Node.js
 
-- [run-gulp-task](https://github.com/LingyuCoder/run-gulp-task): 无需开启子进程直接执行指定gulp任务
-- [get-gulp-inst](https://github.com/LingyuCoder/get-gulp-inst): 用于从gulpfile中读取gulp实例
-- [linglog](https://github.com/LingyuCoder/linglog): 日志模块，支持写入stdio和文件，并提供灵活的日志模板配置
-- [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件
-- [match-like-gulp](https://github.com/LingyuCoder/match-like-gulp): 用于判断一个文件是否符合glob规则，使用类似gulp，支持列表
+脚手架
+
+- [generator-lingyu-component](https://github.com/LingyuCoder/generator-lingyu-component): 前端组件开发脚手架
+- [generator-lingyu-cli-modules](https://github.com/LingyuCoder/generator-lingyu-cli-modules): 命令行nodejs模块的yeoman脚手架
 - [generator-lingyu-node-modules](https://github.com/LingyuCoder/generator-lingyu-node-modules): node.js模块的yeoman脚手架
 - [generator-lingyu-gulp-plugin](https://github.com/LingyuCoder/generator-lingyu-gulp-plugin): gulp插件的yeoman脚手架
-- [gulp-docx](https://github.com/LingyuCoder/gulp-docx): docx转字符串的gulp插件
+
+命令行工具
+
+- [publishy](https://github.com/LingyuCoder/publishy)：可灵活配置的自动化发布工具
+- [changelogy](https://github.com/LingyuCoder/changelogy)：输出符合范围的所有更新日志
+- [react-prop-table-cli](https://github.com/LingyuCoder/react-prop-table-cli)：生成react代码的propTypes表格的命令行工具
+- [less-tree-cli](https://github.com/LingyuCoder/less-tree-cli)：查看less文件依赖关系树的命令行工具
 - [learnmore](https://github.com/LingyuCoder/learnmore): 一个快速写日记的工具 [DEMO](http://lingyucoder.github.io/diary/#/2015/4/10)
+
+gulp
+
+- [gulp-insert-md](https://github.com/LingyuCoder/gulp-insert-md)：markdown字符串插入的gulp插件，可插入后随时更新
+- [run-gulp-task](https://github.com/LingyuCoder/run-gulp-task): 无需开启子进程直接执行指定gulp任务
+- [match-like-gulp](https://github.com/LingyuCoder/match-like-gulp): 用于判断一个文件是否符合glob规则，使用类似gulp，支持列表
+- [gulp-docx](https://github.com/LingyuCoder/gulp-docx): docx转字符串的gulp插件
+- [get-gulp-inst](https://github.com/LingyuCoder/get-gulp-inst): 用于从gulpfile中读取gulp实例
+
+koa
+
 - [koa-anywhere](https://github.com/LingyuCoder/koa-anywhere)：快速在本地起静态服务器
 - [koa-md](https://github.com/LingyuCoder/koa-md)：编译markdown的中间件
+
+库
+
+- [react-prop-table](https://github.com/LingyuCoder/react-prop-table)：解析react源码生成propTypes表格
+- [linglog](https://github.com/LingyuCoder/linglog): 日志模块，支持写入stdio和文件，并提供灵活的日志模板配置
+- [less-tree](https://github.com/LingyuCoder/less-tree)：根据less依赖关系生成vinyl树
+- [parse-less-import](https://github.com/LingyuCoder/parse-less-import): 解析less import，获得less文件依赖
+- [changelog2obj](https://github.com/LingyuCoder/changelog2obj)：解析changelog生成对象或数组
+- [humanize-proptype](https://github.com/LingyuCoder/humanize-proptype)：将react-doc-gen的type对象转化为类型字符串
+- [markdown-tableify](https://github.com/LingyuCoder/markdown-tableify)：JSON转markdown表格工具
+- [html-tableify](https://github.com/LingyuCoder/html-tableify)：JSON转HTML表格工具
+- [should-code-eql](https://github.com/LingyuCoder/should-code-eql): shouldjs比对js代码插件，无视代码是否格式化
+
+### 其他
+
 - [NodeBlog](https://github.com/LingyuCoder/NodeBlog): 基于mongodb数据库的博客管理系统
 
 ## 插件
