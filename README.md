@@ -12,13 +12,13 @@
 
 - [react-as-range-slider](https://github.com/LingyuCoder/react-as-range-slider)：一个React实现的拖动数字输入组件 [DEMO](http://ly-components.github.io/react-as-range-slider/demo/demo.html)
 - [react-as-image-accordion](https://github.com/LingyuCoder/react-as-image-accordion)：手风琴风格图文展示 [DEMO](http://ly-components.github.io/react-as-image-accordion/demo/demo.html)
-- [react-as-tabs](https://github.com/LingyuCoder/react-as-tabs)：标签页 [DEMO](http://ly-components.github.io/react-as-tabs/demo/demo.html)
+- [react-as-tabs](https://github.com/LingyuCoder/react-as-tabs)：标签页 [DEMO](http://ly-components.github.io/react-as-tabs/demo/index.html)
 - [react-git-card](https://github.com/LingyuCoder/react-git-card)：github卡片 [DEMO](http://ly-components.github.io/react-git-card/demo/demo.html)
 - [react-as-dnd](https://github.com/LingyuCoder/react-as-dnd)：拖拽组件 [DEMO](http://ly-components.github.io/react-as-dnd/demo/demo.html)
 - [react-as-calendar](https://github.com/LingyuCoder/react-as-calendar)：日历组件 [DEMO](http://ly-components.github.io/react-as-calendar/demo/demo.html)
 - [react-as-datepicker](https://github.com/LingyuCoder/react-as-datepicker)：日期选择组件 [DEMO](http://ly-components.github.io/react-as-datepicker/demo/demo.html)
 - [react-as-tagfield](https://github.com/LingyuCoder/react-as-tagfield)：标签输入组件 [DEMO](http://ly-components.github.io/react-as-tagfield/demo/demo.html)
-- [react-as-textarea](https://github.com/LingyuCoder/react-as-textarea)：自适应大小的多行文本输入组件 [DEMO](http://ly-components.github.io/react-as-textarea/demo/demo.html)
+- [react-as-textarea](https://github.com/LingyuCoder/react-as-textarea)：自适应大小的多行文本输入组件 [DEMO](http://ly-components.github.io/react-as-textarea/demo/index.html)
 - [react-duoshuo](https://github.com/LingyuCoder/react-duoshuo)：展示Duoshuo评论的组件 [DEMO](http://ly-components.github.io/react-duoshuo/demo/demo.html)
 - [react-image-blur](https://github.com/LingyuCoder/react-image-blur)：显示毛玻璃效果图片的组件 [DEMO](http://ly-components.github.io/react-image-blur/demo/demo.html)
 - [react-as-event-mixin](https://github.com/LingyuCoder/react-as-event-mixin)：为组件提供事件机制的mixin
